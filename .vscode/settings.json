@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "10813번： 공 바꾸기"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
